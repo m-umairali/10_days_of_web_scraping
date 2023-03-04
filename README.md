@@ -1,4 +1,4 @@
-# 10_days_of_web_scraping
+# 10 Days of Web Scraping
 
 Welcome to my Github repository, "10 Days of Web Scraping"! This repository is designed to be a comprehensive resource for those interested in learning about web scraping and its various tools and techniques.
 
